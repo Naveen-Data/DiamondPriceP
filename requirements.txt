@@ -1,3 +1,7 @@
 pandas
+numpy
+flask
+seaborn
+matplotlib
 
--e .
+# -e .
